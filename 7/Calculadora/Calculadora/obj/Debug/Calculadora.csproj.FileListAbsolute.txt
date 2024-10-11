@@ -1,0 +1,9 @@
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\INF - 324\Visual Studio proy\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
