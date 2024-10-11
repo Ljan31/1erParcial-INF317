@@ -1,0 +1,9 @@
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\bin\Debug\DeteccionBordes.exe.config
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\bin\Debug\DeteccionBordes.exe
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\bin\Debug\DeteccionBordes.pdb
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\obj\Debug\DeteccionBordes.csprojResolveAssemblyReference.cache
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\obj\Debug\DeteccionBordes.Form1.resources
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\obj\Debug\DeteccionBordes.Properties.Resources.resources
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\obj\Debug\DeteccionBordes.csproj.GenerateResource.Cache
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\obj\Debug\DeteccionBordes.exe
+E:\INF - 324\Visual Studio proy\DeteccionBordes\DeteccionBordes\obj\Debug\DeteccionBordes.pdb
